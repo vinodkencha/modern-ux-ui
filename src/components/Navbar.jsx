@@ -87,6 +87,7 @@ export default function Navbar({ scrolled }) {
             >
               Testimonials
             </a>
+            
           </div>
         </div>
       )}
